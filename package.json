@@ -1,0 +1,28 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "el mejor curso de node por 0 money",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/jclosadab1996/Nodejs-clase1-midudev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jclosadab1996/Nodejs-clase1-midudev.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "camilo losada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jclosadab1996/Nodejs-clase1-midudev/issues"
+  },
+  "homepage": "https://github.com/jclosadab1996/Nodejs-clase1-midudev#readme",
+  "dependencies": {
+    "picocolors": "^1.0.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
